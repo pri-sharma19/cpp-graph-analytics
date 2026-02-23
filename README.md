@@ -1,5 +1,7 @@
 Graph Analytics Toolkit (C++)
+
 Overview
+
 This project implements a graph analytics tool in C++ that reads relationship data from a CSV file and analyzes connectivity in a network.
 
 Data
