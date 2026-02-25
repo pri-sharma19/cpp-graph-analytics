@@ -21,3 +21,12 @@ Shortest path: Ava -> Noah -> Emma -> Olivia
 - Using BFS to find shortest paths
 - Parsing real-world data from CSV files
 - Structuring multi-file C++ projects
+## Tech Stack
+- Language: C++
+- Data Structures: Hash maps, vectors
+- Algorithms: BFS
+- Build: g++
+## How to Run
+```bash
+g++ -std=c++17 src/main.cpp src/Graph.cpp -o graph_app
+graph_app
