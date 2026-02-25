@@ -1,0 +1,10 @@
+
+---
+
+## Requirements
+This project was developed using Python and common data science libraries including:
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
